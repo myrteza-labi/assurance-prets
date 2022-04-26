@@ -46,7 +46,7 @@ export default {
         { name: "Comparatif", href: "http://www.assurance-prets.comSSS/comparatif/" },
         { name: "Négociation", href: "http://www.assurance-prets.comSSS/cout/" },
         { name: "Prêt", href: "http://www.assurance-prets.comSSS/prets/" },
-        { name: "Prêt", href: "http://www.assurance-prets.comSSS/contact/" },
+        { name: "Contact", href: "http://www.assurance-prets.comSSS/contact/" },
       ],
     },
     {
