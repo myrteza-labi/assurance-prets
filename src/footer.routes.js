@@ -14,7 +14,7 @@ const date = new Date().getFullYear();
 
 export default {
   brand: {
-    name: "Material Kit 2",
+    name: "Assurance Prêts",
     image: logoCT,
     route: "/",
   },
@@ -25,25 +25,28 @@ export default {
     },
     {
       icon: <TwitterIcon />,
-      link: "https://twitter.com/creativetim",
+      link: "https://twitter.com",
     },
     {
       icon: <GitHubIcon />,
-      link: "https://github.com/creativetimofficial",
+      link: "https://github.com",
     },
     {
       icon: <YouTubeIcon />,
-      link: "https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w",
+      link: "https://www.youtube.com",
     },
   ],
   menus: [
     {
-      name: "company",
+      name: "Menu",
       items: [
-        { name: "about us", href: "https://www.creative-tim.com/presentation" },
-        { name: "freebies", href: "https://www.creative-tim.com/templates/free" },
-        { name: "premium tools", href: "https://www.creative-tim.com/templates/premium" },
-        { name: "blog", href: "https://www.creative-tim.com/blog" },
+        { name: "Accueil", href: "http://www.assurance-prets.comSSS/" },
+        { name: "Garantie", href: "http://www.assurance-prets.comSSS/garantie/" },
+        { name: "Coût", href: "http://www.assurance-prets.comSSS/coup/" },
+        { name: "Comparatif", href: "http://www.assurance-prets.comSSS/comparatif/" },
+        { name: "Négociation", href: "http://www.assurance-prets.comSSS/cout/" },
+        { name: "Prêt", href: "http://www.assurance-prets.comSSS/prets/" },
+        { name: "Prêt", href: "http://www.assurance-prets.comSSS/contact/" },
       ],
     },
     {
@@ -74,7 +77,7 @@ export default {
   ],
   copyright: (
     <MKTypography variant="button" fontWeight="regular">
-      All rights reserved. Copyright &copy; {date} Material Kit by{" "}
+      Tout droits réservés. Copyright &copy; {date} Assurance prêt | As Du Grand Lyon{" "}
       <MKTypography
         component="a"
         href="https://www.creative-tim.com"
@@ -83,7 +86,7 @@ export default {
         variant="button"
         fontWeight="regular"
       >
-        Creative Tim
+        | Développeur: LABI Myrteza
       </MKTypography>
       .
     </MKTypography>
