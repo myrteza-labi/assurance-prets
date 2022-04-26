@@ -46,32 +46,21 @@ export default {
         { name: "Comparatif", href: "http://www.assurance-prets.comSSS/comparatif/" },
         { name: "Négociation", href: "http://www.assurance-prets.comSSS/cout/" },
         { name: "Prêt", href: "http://www.assurance-prets.comSSS/prets/" },
+      ],
+    },
+
+    {
+      name: "Support",
+      items: [
         { name: "Contact", href: "http://www.assurance-prets.comSSS/contact/" },
-      ],
-    },
-    {
-      name: "resources",
-      items: [
-        { name: "illustrations", href: "https://iradesign.io/" },
-        { name: "bits & snippets", href: "https://www.creative-tim.com/bits" },
-        { name: "affiliate program", href: "https://www.creative-tim.com/affiliates/new" },
-      ],
-    },
-    {
-      name: "help & support",
-      items: [
-        { name: "contact us", href: "https://www.creative-tim.com/contact-us" },
-        { name: "knowledge center", href: "https://www.creative-tim.com/knowledge-center" },
-        { name: "custom development", href: "https://services.creative-tim.com/" },
-        { name: "sponsorships", href: "https://www.creative-tim.com/sponsorships" },
+        { name: "Informations", href: "http://www.assurance-prets.comSSS/contact/" },
       ],
     },
     {
       name: "legal",
       items: [
-        { name: "terms & conditions", href: "https://www.creative-tim.com/terms" },
-        { name: "privacy policy", href: "https://www.creative-tim.com/privacy" },
-        { name: "licenses (EULA)", href: "https://www.creative-tim.com/license" },
+        { name: "Mentions légales", href: "http://www.assurance-prets.comSSS/mentions/" },
+        { name: "politique de confidentialité", href: "http://www.assurance-prets.comSSS/mentions/" },
       ],
     },
   ],
